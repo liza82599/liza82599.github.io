@@ -1,0 +1,7 @@
+body {
+    background: #00c2ec;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
